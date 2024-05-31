@@ -1,10 +1,17 @@
-# Hello, World! I'm Rodrigo Lobenwein! 👋
+<a href="https://youtu.be/0YhJxJZOWBw?t=51" target="_blank"><img align="right" alt="Neo knows code too!" width="400" height=auto src="assets/neo_know_code.webp"></a>
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 40%;">
-    <h2>About Me 🚀</h2>
-    <p>I'm a <strong>Full Stack Developer</strong> with a passion for turning coffee into code ☕💻. Since 2021, I've been crafting web applications that boost productivity and make clients smile 😄. If you need a mix of C#, ASP.NET Core, JavaScript, and a dash of humor, you're in the right place!</p>
-    <h2>Technologies I Rock At 🎸</h2>
+
+# Hello, World! I'm Rodrigo Lobenwein! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+## About me 🚀
+I'm a <strong>Full Stack Developer</strong> with a passion for turning coffee into code ☕💻. 
+Since 2021, I've been crafting web applications that boost productivity and make clients smile 😄. 
+If you need a mix of C#, ASP.NET Core, JavaScript, and a dash of humor, you're in the right place!
+
+
+
+
+
+### Technologies I Rock At 🎸
 
 [![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&link=https://docs.microsoft.com/en-us/dotnet/csharp/)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white&link=https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0)](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0)
@@ -17,27 +24,14 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/docs/5.0/getting-started/introduction/)](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&link=https://dev.mysql.com/doc/)](https://dev.mysql.com/doc/)
 
-<div style="width: 48%;">
-  <img src="assets/coffee_cup.webp" alt="Activities" style="width: 30%; height: auto; margin-right: 20px;">
-  <div>
-    <h2>What I've been doing</h2>
-    <ul>
-      <li>Freelance jobs 🤨</li>
-      <li>Studying AWS 🤯</li>
-      <li>Having fun with code 🤓</li>
-    </ul>
-  </div>
-</div>
 
+## What I've been doing
+<img align="left" width="200" margin="5px" height=auto src="assets/coffee_cup.webp">
 
-  </div>
-<div style="width: 48%;">
-    <figure>
-    <img src="assets/neo_know_code.webp" alt="Neo knows code, too GIF" style="width: 40%; height: auto;">
-    <figcaption><a href="https://youtu.be/0YhJxJZOWBw?t=51" target="_blank">Feeling lost? Click here!</a> 🕶️</figcaption>
-    </figure>
-  </div>
-</div>
+      > Freelance jobs 🤨
+      > Studying AWS 🤯
+      > Having fun with code 🤓
+###
 
 ## My Main Projects 💼
 ### [AwesomeCRM](https://github.com/rlobenwein/CRM_Sample)
@@ -55,11 +49,13 @@ An integrated financial module for CRM, increasing finance department productivi
 
 ### CAEMagic
 Desktop application using C# and Windows Forms, expanding company portfolio and attractiveness.
-*(This one’s in the vault and I don't know here is the key!* 😩 *)*
+*(This one’s in the vault and I don't know here is the key!* 😩🤦‍♂️ *)*
 
 
 ## Get In Touch
 If you read this far, you deserve a high-five ✋! Feel free to reach out and let's chat about technology, projects, or anything geeky 🤓!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/rodrigolobenwein)](https://www.linkedin.com/in/yourusername)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@gmail.com)](mailto:rodrigolobenweindev@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rlobenwein)](https://github.com/rlobenwein)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigolobenwein)](https://www.linkedin.com/in/rodrigolobenwein)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5531996146736)](https://api.whatsapp.com/send?phone=5531996146736&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigolobenweindev@gmail.com)](mailto:rodrigolobenweindev@gmail.com)

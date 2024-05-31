@@ -1,7 +1,7 @@
 # Hello, World! I'm Rodrigo Lobenwein! 👋
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%;">
+  <div style="width: 40%;">
     <h2>About Me 🚀</h2>
     <p>I'm a <strong>Full Stack Developer</strong> with a passion for turning coffee into code ☕💻. Since 2021, I've been crafting web applications that boost productivity and make clients smile 😄. If you need a mix of C#, ASP.NET Core, JavaScript, and a dash of humor, you're in the right place!</p>
     <h2>Technologies I Rock At 🎸</h2>
@@ -17,8 +17,8 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/docs/5.0/getting-started/introduction/)](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&link=https://dev.mysql.com/doc/)](https://dev.mysql.com/doc/)
 
-<div style="display: flex; align-items: center;">
-  <img src="assets/coffee_cup.webp" alt="Activities" style="width: 100%; height: auto; margin-right: 20px;">
+<div style="width: 48%;">
+  <img src="assets/coffee_cup.webp" alt="Activities" style="width: 30%; height: auto; margin-right: 20px;">
   <div>
     <h2>What I've been doing</h2>
     <ul>
@@ -31,11 +31,11 @@
 
 
   </div>
-  <div style="flex: 1;">
-<figure>
-  <img src="assets/neo_know_code.webp" alt="Neo knows code, too GIF" style="width: 40%; height: auto;">
-  <figcaption><a href="https://youtu.be/0YhJxJZOWBw?t=51" target="_blank">Feeling lost? Click here!</a> 🕶️</figcaption>
-</figure>
+<div style="width: 48%;">
+    <figure>
+    <img src="assets/neo_know_code.webp" alt="Neo knows code, too GIF" style="width: 40%; height: auto;">
+    <figcaption><a href="https://youtu.be/0YhJxJZOWBw?t=51" target="_blank">Feeling lost? Click here!</a> 🕶️</figcaption>
+    </figure>
   </div>
 </div>
 

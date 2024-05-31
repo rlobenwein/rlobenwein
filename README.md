@@ -1,7 +1,7 @@
 # Hello, World! I'm Rodrigo Lobenwein! 👋
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; width: 50%">
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 48%;">
     <h2>About Me 🚀</h2>
     <p>I'm a <strong>Full Stack Developer</strong> with a passion for turning coffee into code ☕💻. Since 2021, I've been crafting web applications that boost productivity and make clients smile 😄. If you need a mix of C#, ASP.NET Core, JavaScript, and a dash of humor, you're in the right place!</p>
     <h2>Technologies I Rock At 🎸</h2>
@@ -18,7 +18,7 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&link=https://dev.mysql.com/doc/)](https://dev.mysql.com/doc/)
 
 <div style="display: flex; align-items: center;">
-  <img src="assets/coffee_cup.webp" alt="Activities" style="width: 30%; height: auto; margin-right: 20px;">
+  <img src="assets/coffee_cup.webp" alt="Activities" style="width: 100%; height: auto; margin-right: 20px;">
   <div>
     <h2>What I've been doing</h2>
     <ul>

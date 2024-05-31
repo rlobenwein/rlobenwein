@@ -1,4 +1,4 @@
-# Hello, World! I'm Rodrigo Lobenwein 👋
+# Hello, World! I'm Rodrigo Lobenwein! 👋
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
@@ -33,7 +33,7 @@
   </div>
   <div style="flex: 1;">
 <figure>
-  <img src="assets/neo_know_code.webp" alt="Neo knows code, too GIF" style="width: 100%; height: auto;">
+  <img src="assets/neo_know_code.webp" alt="Neo knows code, too GIF" style="width: 40%; height: auto;">
   <figcaption><a href="https://youtu.be/0YhJxJZOWBw?t=51" target="_blank">Feeling lost? Click here!</a> 🕶️</figcaption>
 </figure>
   </div>

@@ -3,7 +3,7 @@
 
 ## Hello! I'm Rodrigo Lobenwein! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 I'm a <strong>Full Stack Developer</strong> with a passion for turning coffee into code ☕💻. 
-Since 2021, I've been crafting web applications that boost productivity and make clients smile 😄. 
+I've been crafting web applications that boost productivity and make clients smile 😄. 
 If you need a mix of C#, ASP.NET Core, JavaScript, and a dash of humor, you're in the right place!
 
 
